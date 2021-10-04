@@ -1,5 +1,5 @@
 {
-    "OpenWeatherApiKey" : "d12b1701e44e01189a75991df335bb8b",
+    "OpenWeatherApiKey" : "",
     "WeatherStructure" : {
         "coord":{"lon":10.8833,"lat":48.3667},
         "weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04n"}],
