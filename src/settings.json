@@ -1,0 +1,15 @@
+{
+    "OpenWeatherApiKey" : "d12b1701e44e01189a75991df335bb8b",
+    "WeatherStructure" : {
+        "coord":{"lon":10.8833,"lat":48.3667},
+        "weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04n"}],
+        "base":"stations",
+        "main":{"temp":289.27,"feels_like":288.92,"temp_min":285.11,"temp_max":291.76,"pressure":1012,"humidity":76},
+        "visibility":10000,
+        "wind":{"speed":6.17,"deg":320},
+        "clouds":{"all":75},"dt":1633291593,
+        "sys":{"type":1,"id":1308,"country":"DE","sunrise":1633238311,"sunset":1633279934},
+        "timezone":7200,"id":2954172,
+        "name":"Augsburg","cod":200
+    }
+}
